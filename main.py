@@ -1,1 +1,1 @@
-print ("hey, sajang! how are you?")
+print ("Hello, sajangbot")
